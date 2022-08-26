@@ -1,0 +1,14 @@
+#####2022-08-01 12:02:04.282227####
+Cost of Droid 1: $12.00
+Cost of Droid 2: $12.00
+Cost of Droid 3: $12.00
+Cost of Droid 4: $12.00
+Cost of Droid 5: $12.00
+Cost of Droid 6: $12.00
+Cost of Droid 7: $12.00
+Cost of Droid 8: $12.00
+Cost of Droid 9: $12.00
+Cost of Droid 10: $12.00
+total_price_of_Droid: $120.00
+average_price_of_Droid: $12.00
+###########################################
